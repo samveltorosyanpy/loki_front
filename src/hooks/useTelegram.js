@@ -1,4 +1,5 @@
-const tg = window.Telegram.WebApp;
+const tg = window
+debugger;
 
 const onClose = () => {
     tg.close();
