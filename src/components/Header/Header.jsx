@@ -13,6 +13,11 @@ const Header = () => {
             <span className={'username'}>
                 {user.username}
             </span>
+
+            <Button className={onClose}>Brock</Button>
+            <span className={'username'}>
+                {user.username}
+            </span>
         </div>
     );
 };
